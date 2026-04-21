@@ -51,6 +51,28 @@ Packages/
 
 ---
 
+## Screenshots
+
+<img width="1525" height="843" alt="Screenshot 2026-04-02 203904" src="https://github.com/user-attachments/assets/12ed1ed9-0eac-4e3f-9f63-ebd26607cdb7" />
+<img width="613" height="315" alt="Screenshot 2026-04-05 120230" src="https://github.com/user-attachments/assets/3c5282e1-3dd9-4049-bc05-3b5e64847be5" />
+
+
+## Gameplay
+
+
+
+
+
+https://github.com/user-attachments/assets/f85d4a7f-d466-4897-98ea-8fea0f8ef2f6
+
+
+
+
+
+
+
+---
+
 ## 🚀 How to Run
 
 1. Click on Play Link Given Below:
